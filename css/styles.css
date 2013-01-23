@@ -57,6 +57,10 @@ body {
 
 /* Navigation Style */
 
+.navigation.maintext {
+    margin-top: 20px;
+}
+
 #mainlinks {
 	width: 100%;
 	font-weight: bold;
