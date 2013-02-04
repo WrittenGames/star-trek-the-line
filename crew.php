@@ -2,9 +2,9 @@
 		<div class="maintext">
 			<table width="100%">
 				<tr>
-					<td colspan="3">
+					<th colspan="3">
 						<h3>Command</h3>
-					</td>
+					</th>
 				</tr>
 				<tr>
 					<th>Position</th><th>Rank</th><th>Name</th>
@@ -26,8 +26,8 @@
 				</tr>
 				<tr>
 					<td>Quartermaster</td>
-					<td> -- </td>
-					<td> -- </td>
+					<td>Petty Officer</td>
+					<td>Kayla Baer</td>
 				</tr>
 				<tr>
 					<td>Chief Helmsman</td>
@@ -35,9 +35,9 @@
 					<td>Kenneth Tomlin</td>
 				</tr>
 				<tr>
-					<td colspan="3">
+					<th colspan="3">
 						<h3>Operations and Science</h3>
-					</td>
+					</th>
 				</tr>
 				<tr>
 					<th>Position</th><th>Rank</th><th>Name</th>
@@ -83,9 +83,9 @@
 					<td> -- </td>
 				</tr>
 				<tr>
-					<td colspan="3">
+					<th colspan="3">
 						<h3>Engineering</h3>
-					</td>
+					</th>
 				</tr>
 				<tr>
 					<th>Position</th><th>Rank</th><th>Name</th>
@@ -106,9 +106,9 @@
 					<td> -- </td>
 				</tr>
 				<tr>
-					<td colspan="3">
+					<th colspan="3">
 						<h3>Weapons</h3>
-					</td>
+					</th>
 				</tr>
 				<tr>
 					<th>Position</th><th>Rank</th><th>Name</th>
@@ -134,9 +134,9 @@
 					<td> -- </td>
 				</tr>
 				<tr>
-					<td colspan="3">
+					<th colspan="3">
 						<h3>Medical</h3>
-					</td>
+					</th>
 				</tr>
 				<tr>
 					<th>Position</th><th>Rank</th><th>Name</th>

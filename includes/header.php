@@ -17,7 +17,16 @@
 				powerrange: [2,3],
 				largeimage: "images/theseus.jpg",
 				magnifiersize: [200,200]
-			})
+			});
+			$("table").delegate('td','mouseover mouseleave', function(e) {
+				if (e.type == 'mouseover') {
+					$(this).parent().addClass("hover");
+					$("colgroup").eq($(this).index()).addClass("hover");
+				} else {
+					$(this).parent().removeClass("hover");
+					$("colgroup").eq($(this).index()).removeClass("hover");
+			  }
+			});
 		})
 	</script>
 	<link href='http://fonts.googleapis.com/css?family=Offside' rel='stylesheet' type='text/css' />
